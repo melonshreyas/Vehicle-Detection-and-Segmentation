@@ -11,8 +11,8 @@ The car video is divided into multiple frames based on the length of the video, 
 ![](c5.jpg)
 
 # Python-OpenCV code
-1.Create a folder named project_dinu
-2.Create a folder data in the project_dinu folder.
-3.Paste the python code in the project_dinu.
-4.Change the path in the python code and then run the command in terminal "python3 vehicle_detect_extract.py"
-5.The extracted images are stored in the folder named data.
+1.Create a folder named project_dinu.<br/>
+2.Create a folder data in the project_dinu folder.<br/>
+3.Paste the python code in the project_dinu.<br/>
+4.Change the path in the python code and then run the command in terminal "python3 vehicle_detect_extract.py".<br/>
+5.The extracted images are stored in the folder named data.<br/>
