@@ -9,3 +9,10 @@ The ﬁrst stage of processing in a license plate recognition system is the vide
 # Extracting the Frames from the video
 The car video is divided into multiple frames based on the length of the video, which ispassed onto further process of license plate extraction to extract and recognise the licensenplate characters. The extraction of frames from the sample video is as shown in the Figure3
 ![](c5.jpg)
+
+# Python-OpenCV code
+1.Create a folder named project_dinu
+2.Create a folder data in the project_dinu folder.
+3.Paste the python code in the project_dinu.
+4.Change the path in the python code and then run the command in terminal "python3 vehicle_detect_extract.py"
+5.The extracted images are stored in the folder named data.
